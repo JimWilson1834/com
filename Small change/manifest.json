@@ -1,0 +1,178 @@
+{
+  "start": 0,
+  "total": 1572864,
+  "section_size": 65536,
+  "chunk": 63,
+  "working_prep": "c0_83_fb",
+  "working_fmt": "a4_s2",
+  "sections": [
+    {
+      "start": 0,
+      "length": 65536,
+      "file": "section_000000_010000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 65536,
+      "length": 65536,
+      "file": "section_010000_020000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 131072,
+      "length": 65536,
+      "file": "section_020000_030000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 196608,
+      "length": 65536,
+      "file": "section_030000_040000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 262144,
+      "length": 65536,
+      "file": "section_040000_050000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 327680,
+      "length": 65536,
+      "file": "section_050000_060000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 393216,
+      "length": 65536,
+      "file": "section_060000_070000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 458752,
+      "length": 65536,
+      "file": "section_070000_080000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 524288,
+      "length": 65536,
+      "file": "section_080000_090000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 589824,
+      "length": 65536,
+      "file": "section_090000_0A0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 655360,
+      "length": 65536,
+      "file": "section_0A0000_0B0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 720896,
+      "length": 65536,
+      "file": "section_0B0000_0C0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 786432,
+      "length": 65536,
+      "file": "section_0C0000_0D0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 851968,
+      "length": 65536,
+      "file": "section_0D0000_0E0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 917504,
+      "length": 65536,
+      "file": "section_0E0000_0F0000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 983040,
+      "length": 65536,
+      "file": "section_0F0000_100000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1048576,
+      "length": 65536,
+      "file": "section_100000_110000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1114112,
+      "length": 65536,
+      "file": "section_110000_120000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1179648,
+      "length": 65536,
+      "file": "section_120000_130000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1245184,
+      "length": 65536,
+      "file": "section_130000_140000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1310720,
+      "length": 65536,
+      "file": "section_140000_150000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1376256,
+      "length": 65536,
+      "file": "section_150000_160000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1441792,
+      "length": 65536,
+      "file": "section_160000_170000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    },
+    {
+      "start": 1507328,
+      "length": 65536,
+      "file": "section_170000_180000.bin",
+      "status": "complete",
+      "bytes_done": 65536
+    }
+  ]
+}
